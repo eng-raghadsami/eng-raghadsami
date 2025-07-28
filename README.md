@@ -12,15 +12,6 @@
 ---
 
 
-### 📬 Connect with me:
-
-<p align="left">
-
-  <a href="mailto:raghad.w@email.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
-
----
-
 ### 🧰 Languages and Tools
 
 <p align="left">
