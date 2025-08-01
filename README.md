@@ -7,7 +7,7 @@
 
 - 🛠️ I’ve worked with: `HTML`, `CSS`, `PHP`, `Laravel`, `MySQL`
 
-- 📫 How to reach me: **raghad.w@email.com**
+- 📫 How to reach me: **raghadsami.w@gmail.com**
 
 ---
 
