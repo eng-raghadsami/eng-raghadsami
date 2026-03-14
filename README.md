@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghad Sami</h1>
 <h3 align="center">Aspiring Backend Developer </h3>
 
-- 🎓 I'm currently studying **Computer Engineering**
+- 🎓 I'm  **Computer Systems Engineer**
 
-- 🌱 I’m currently learning: **JavaScript** and improving my **backend development**
-
-- 🛠️ I’ve worked with: `HTML`, `CSS`, `PHP`, `Laravel`, `MySQL`
+- 🛠️ I’ve worked with: `HTML`, `CSS`, `PHP`, `Laravel`, `MySQL`, `React.js`
 
 - 📫 How to reach me: **raghadsami.w@gmail.com**
 
