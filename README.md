@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghad Sami</h1>
-<h3 align="center">Aspiring Backend Developer </h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 
 - 🎓 I'm  **Computer Systems Engineer**
 
